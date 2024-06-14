@@ -1,3 +1,4 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fvictorsoeiro%2Fnetflix-tv-shows-and-movies&psig=AOvVaw3eH8bX7tR4Z3BBxKUheLxk&ust=1718419247026000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjOvNmI2oYDFQAAAAAdAAAAABAE
 # Netflix Titles Analysis
 
 This repository contains a data analysis project on the Netflix titles dataset. The project includes data cleaning, segmentation, and various analyses to extract insights from the dataset. The dataset is sourced from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
