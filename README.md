@@ -1,4 +1,4 @@
-![Netflix](https://storage.googleapis.com/kaggle-datasets-images/2178661/3637122/3598f9ebf3b0c8ecd6e10090005d911b/dataset-cover.jpg?t=2022-05-15-00-07-35)
+![Netflix](https://github.com/Ameerusa86/Netflix_Movies_Analysis/blob/main/dataset-cover.jpg)
 # Netflix Titles Analysis
 
 This repository contains a data analysis project on the Netflix titles dataset. The project includes data cleaning, segmentation, and various analyses to extract insights from the dataset. The dataset is sourced from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows).
