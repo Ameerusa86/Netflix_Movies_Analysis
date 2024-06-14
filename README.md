@@ -62,3 +62,20 @@ The dataset contains information about movies and TV shows available on Netflix 
 
 The script will perform data cleaning, segmentation, and various analyses, producing visualizations of the results.
 
+## Analysis
+The analysis includes the following steps:
+
+1. Data Cleaning:
+  - Remove duplicate entries
+  - Handle missing values
+  - Drop unnecessary columns
+    
+2. Segmentation:
+  - Segment data into Movies and TV Shows
+  - Count the number of Movies and TV Shows
+
+3. Visual Analysis:
+  - Distribution of movie and TV show ratings
+  - Relationship between release year and rating
+  - Most popular genres
+  - Relationship between duration and rating
