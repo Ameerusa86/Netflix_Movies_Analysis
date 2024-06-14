@@ -54,5 +54,11 @@ The dataset contains information about movies and TV shows available on Netflix 
    ```bash
    pip install -r requirements.txt
 
+## Usage
+1. Ensure the dataset (netflix_titles.csv) is in the project directory.
+2. Run the analysis script:
+   ```bash
+   python main.py
 
+The script will perform data cleaning, segmentation, and various analyses, producing visualizations of the results.
 
